@@ -44,6 +44,7 @@ print(X_test)
 print(y_train)
 print(y_test)
 
+
 # Feature Scaling
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
